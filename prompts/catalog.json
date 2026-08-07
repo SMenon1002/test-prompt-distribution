@@ -43,6 +43,14 @@
       ]
     },
     {
+      "business_unit": "Capital Markets",
+      "filename": "Capital Markets/capital-markets-overview.md",
+      "title": "Capital Markets Overview",
+      "one_line_description": "General prompt that has the assistant describe what Capital Markets is whenever a user asks what it is or does.",
+      "keywords": ["overview", "who are you", "what are you", "capital markets", "general", "description"],
+      "required_fields": []
+    },
+    {
       "business_unit": "Global Workplace Solutions (GWS)",
       "filename": "Global Workplace Solutions (GWS)/facilities-qbr-summary.md",
       "title": "Facilities Management Quarterly Business Review (QBR)",
