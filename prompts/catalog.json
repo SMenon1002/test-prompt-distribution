@@ -1,0 +1,149 @@
+{
+  "prompts": [
+    {
+      "business_unit": "Capital Markets",
+      "filename": "Capital Markets/investment-sale-offering-memorandum.md",
+      "title": "Investment Sale Offering Memorandum (OM) Summary",
+      "one_line_description": "Drafts the executive summary/investment highlights section of an Offering Memorandum for a property being marketed for sale.",
+      "keywords": ["offering memorandum", "OM", "investment sale", "executive summary", "investment highlights", "capital markets", "property for sale", "cap rate", "NOI", "broker team"],
+      "required_fields": [
+        "Property Name",
+        "Property Address / Market",
+        "Property Type",
+        "Total SF / Unit Count",
+        "Year Built / Renovated",
+        "Occupancy Rate",
+        "In-Place NOI",
+        "Pro Forma / Stabilized NOI",
+        "Asking Price / Guidance",
+        "Cap Rate (In-Place / Stabilized)",
+        "Major Tenants / Anchor Tenants",
+        "Sponsor / Seller Name",
+        "Key Investment Highlights",
+        "Broker Team & Contact Info",
+        "Submission / Call for Offers Date"
+      ]
+    },
+    {
+      "business_unit": "Capital Markets",
+      "filename": "Capital Markets/weekly-pipeline-update.md",
+      "title": "Weekly Deal Pipeline Update",
+      "one_line_description": "Converts raw broker deal notes into a standardized weekly pipeline report/email for internal reporting to a Market Leader.",
+      "keywords": ["pipeline update", "weekly report", "deal status", "internal reporting", "CRM", "broker notes", "LOI", "prospecting", "market leader", "capital markets"],
+      "required_fields": [
+        "Broker/Team Name",
+        "Reporting Week Ending",
+        "Market Leader / Recipient",
+        "Active Listings (raw notes)",
+        "New Business Won This Week",
+        "Deals Lost / Dropped This Week",
+        "Deals Under LOI / Contract",
+        "Prospecting / Pitch Activity",
+        "Blockers Needing Manager Attention"
+      ]
+    },
+    {
+      "business_unit": "Global Workplace Solutions (GWS)",
+      "filename": "Global Workplace Solutions (GWS)/facilities-qbr-summary.md",
+      "title": "Facilities Management Quarterly Business Review (QBR)",
+      "one_line_description": "Generates a client-facing QBR narrative summarizing facilities management performance, cost, safety, and sustainability metrics.",
+      "keywords": ["QBR", "quarterly business review", "facilities management", "IFM", "SLA", "client report", "GWS", "preventive maintenance", "sustainability", "safety incidents"],
+      "required_fields": [
+        "Client Account Name",
+        "Portfolio Scope",
+        "Quarter / Reporting Period",
+        "Account Director / Lead",
+        "Work Order Volume (This Qtr)",
+        "SLA Compliance Rate",
+        "Preventive Maintenance Completion Rate",
+        "Safety Incidents (Recordable / Near-Miss)",
+        "Cost Savings / Avoidance Identified",
+        "Budget vs. Actual Spend",
+        "Vendor Performance Issues",
+        "Sustainability Metrics",
+        "Key Wins This Quarter",
+        "Open Risks / Action Items",
+        "Next Quarter Priorities"
+      ]
+    },
+    {
+      "business_unit": "Valuation & Advisory Services",
+      "filename": "Valuation & Advisory Services/appraisal-report-summary.md",
+      "title": "Appraisal Report Executive Summary",
+      "one_line_description": "Drafts the executive summary/letter of transmittal narrative for a USPAP-compliant commercial real estate appraisal report.",
+      "keywords": ["appraisal", "valuation", "USPAP", "executive summary", "MAI", "highest and best use", "income approach", "sales comparison", "value conclusion", "VAS"],
+      "required_fields": [
+        "Client / Intended User",
+        "Property Address",
+        "Property Type",
+        "Interest Appraised",
+        "Effective Date of Value",
+        "Report Date",
+        "Intended Use",
+        "Site Size",
+        "Building Size",
+        "Highest and Best Use Conclusion",
+        "Valuation Approaches Used",
+        "Income Approach Value Conclusion",
+        "Sales Comparison Value Conclusion",
+        "Final Reconciled Value",
+        "Exposure/Marketing Time",
+        "Appraiser Name & Designation"
+      ]
+    },
+    {
+      "business_unit": "Property Management",
+      "filename": "Property Management/lease-abstract-summary.md",
+      "title": "Lease Abstract Summary",
+      "one_line_description": "Converts raw lease terms into a standardized lease abstract for property management and accounting teams, flagging non-standard clauses.",
+      "keywords": ["lease abstract", "lease terms", "tenant", "rent schedule", "operating expenses", "property management", "TI allowance", "co-tenancy", "assignment sublease", "lease summary"],
+      "required_fields": [
+        "Property Name / Address",
+        "Tenant Legal Name",
+        "Suite / Unit Number",
+        "Rentable Square Footage",
+        "Lease Commencement Date",
+        "Lease Expiration Date",
+        "Renewal Options",
+        "Base Rent Schedule",
+        "Free Rent / Abatement Period",
+        "Operating Expense Structure",
+        "Security Deposit / LOC Amount",
+        "Tenant Improvement Allowance",
+        "Permitted Use",
+        "Exclusive Use / Co-Tenancy Clauses",
+        "Assignment / Sublease Rights",
+        "Early Termination Rights",
+        "Landlord/Tenant Notice Addresses"
+      ]
+    },
+    {
+      "business_unit": "Project Management",
+      "filename": "Project Management/construction-status-report.md",
+      "title": "Construction Project Status Report",
+      "one_line_description": "Generates a monthly client-facing construction/project management status report covering schedule, budget, milestones, and risks.",
+      "keywords": ["construction status report", "monthly report", "project management", "PJM", "schedule variance", "budget variance", "change orders", "milestones", "RFI", "safety incidents"],
+      "required_fields": [
+        "Project Name",
+        "Project Location",
+        "Client / Owner",
+        "Project Manager",
+        "Reporting Period",
+        "Overall Project Phase",
+        "Percent Complete",
+        "Original Budget",
+        "Current Forecast Cost",
+        "Budget Variance",
+        "Original Schedule Completion Date",
+        "Current Forecast Completion Date",
+        "Schedule Variance",
+        "Milestones Completed This Period",
+        "Milestones Planned Next Period",
+        "Open RFIs / Submittals",
+        "Change Orders (This Period)",
+        "Safety Incidents",
+        "Key Risks / Issues"
+      ]
+    }
+  ]
+}
